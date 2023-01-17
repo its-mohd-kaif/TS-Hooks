@@ -1,0 +1,25 @@
+.input {
+  width: 30%;
+  padding: 0.5em;
+  font-size: larger;
+}
+
+.input__btn,
+.button {
+  padding: 12px 20px;
+  font-size: larger;
+  background-color: black;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+ol {
+  background: #ff9999;
+  padding: 20px;
+}
+
+ul {
+  background: #3399ff;
+  padding: 20px;
+}
